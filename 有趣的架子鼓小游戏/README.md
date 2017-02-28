@@ -6,7 +6,7 @@
 
 任务效果图：
 
-![1](C:\Users\Haoran\Desktop\1.png)
+![final](E:\JavaScript-30days\有趣的架子鼓小游戏\final.png)
 
 ## 任务目的
 
