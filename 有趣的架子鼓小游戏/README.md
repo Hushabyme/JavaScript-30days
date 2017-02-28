@@ -6,7 +6,7 @@
 
 任务效果图：
 
-![final](E:\JavaScript-30days\有趣的架子鼓小游戏\final.png)
+![final](https://github.com/Hushabyme/JavaScript-30days/blob/master/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9E%B6%E5%AD%90%E9%BC%93%E5%B0%8F%E6%B8%B8%E6%88%8F/final/final.png)
 
 ## 任务目的
 
