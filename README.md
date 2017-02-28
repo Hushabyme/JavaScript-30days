@@ -8,6 +8,15 @@
 
 此外，我将作者所写的代码进行了一定的优化和小改动，目的是为了使其更好辨识以及符合我们的审美习惯。
 
+你可以 clone 到本地进行预览：https://github.com/Hushabyme/JavaScript-30days.git
+
+clone 方法：
+
+1. 打开 git 命令行工具
+2. 选择指定的文件夹
+3. 输入 git clone https://github.com/Hushabyme/JavaScript-30days.git
+4. 等待程序下载完成即可
+
 ## 目录
 
-（1）[有趣的架子鼓]()
+（1）2017-2-28  [有趣的架子鼓小游戏]()
