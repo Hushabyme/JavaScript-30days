@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test3</title>
+  <style>
+    /*这里定义的是 h1 的作用域中，在其它作用域中不可以使用此自定义属性*/
+    h1 {
+      --my-color: orange;
+      color: var(--my-color);
+      transition: all 1s;
+    }
+    /*使用例如 hover 属性时，我们可以动态地改变自定义属性*/
+    h1:hover {
+      --my-color: red;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello World!</h1>
+</body>
+</html>

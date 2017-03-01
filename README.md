@@ -15,10 +15,20 @@ clone 方法：
 1. 打开 git 命令行工具
 2. 选择指定的文件夹
 3. 输入 git clone https://github.com/Hushabyme/JavaScript-30days.git
-4. 等待程序下载完成即可
+4. 等待下载完成即可
 
 ## 目录
 
 （1）2017-2-28  [有趣的架子鼓小游戏](https://github.com/Hushabyme/JavaScript-30days/tree/master/%E6%9C%89%E8%B6%A3%E7%9A%84%E6%9E%B6%E5%AD%90%E9%BC%93%E5%B0%8F%E6%B8%B8%E6%88%8F)
 
 （2）2017-2-28  [行走的时钟](https://github.com/Hushabyme/JavaScript-30days/tree/master/%E8%A1%8C%E8%B5%B0%E7%9A%84%E6%97%B6%E9%92%9F)
+
+（3）2017-3-1  [定制属于你的相册]()
+
+（4）2017-3-1  [Array.prototype 方法学习（1）]()
+
+（5）2017-3-1  [制作唯美交互的网页图集]()
+
+（6）2017-3-1  [Array.prototype 方法学习（2）]()
+
+（7）2017-3-1  [canvas 五彩缤纷的画笔]()

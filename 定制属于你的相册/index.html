@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>和CSS4新特性玩耍吧</title>
+  <link rel="stylesheet" href="css/layout.css">
+</head>
+<body>
+  <header>
+    <h2>定制属于 <span class='hl'>你</span> 的相册吧</h2>
+  </header>
+
+
+  <div class="controls">
+    <label for="spacing">相框宽度</label>
+    <input id="spacing" type="range" name="spacing" min="10" max="200" value="10" data-size="px">
+
+    <label for="blur">模糊度</label>
+    <input id="blur" type="range" name="blur" min="0" max="25" value="1" data-size="px">
+
+    <label for="base">主题颜色</label>
+    <input id="base" type="color" name="base" value="#ffc600">
+  </div>
+
+  <img src="./images/1.jpg" alt="" width="700" height="450">
+
+  <script src="js/customize.js"></script>
+</body>
+</html>

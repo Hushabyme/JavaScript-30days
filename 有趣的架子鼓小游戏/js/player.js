@@ -11,6 +11,7 @@
   }
 
   const keys = document.querySelectorAll('.key');
+
   keys.forEach( key => {
     return key.addEventListener('transitionend', removeTransition);
   });

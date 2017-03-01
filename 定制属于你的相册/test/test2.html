@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test2</title>
+  <style>
+    :root {
+      --color: orange;
+    }
+
+    h1 {
+      /*使用 var(--variable-name [, declaration-value]) 的写法*/
+      /*如果 --color 未定义，则使用默认的 color 值，这里是 pink*/
+      /*可将上方 :root 中的 color 注释，查看结果*/
+      color: var(--color, pink);
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello World!</h1>
+</body>
+</html>

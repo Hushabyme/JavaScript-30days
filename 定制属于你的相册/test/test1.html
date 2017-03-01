@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test1</title>
+  <style>
+    /*使用:root 伪类定义全局变量，作用域在全局中*/
+    /*变量的定义是动态的，可以随时改变*/
+    :root {
+      --color: orange;
+    }
+
+    h1 {
+      color: var(--color);
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello World!</h1>
+</body>
+</html>

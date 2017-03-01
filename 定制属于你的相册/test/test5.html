@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test5</title>
+  <style>
+    /*使用动态的技术改变背景颜色，方便更改属性的样式*/
+
+    body {
+      display: flex;
+      justify-content: space-around;
+      flex: 1;
+    }
+    div {
+      width: 300px;
+      height: 300px;
+      border:  1px solid #000;
+      --background: #fff;
+      background: var(--background);
+      transition: background 1s;
+    }
+
+    .box1:hover {
+      --background: pink;
+    }
+
+    .box2:hover {
+      --background: orange;
+    }
+
+    .box3:hover {
+      --background: red;
+    }
+  </style>
+</head>
+<body>
+  <div class="box1">pink</div>
+  <div class="box2">orange</div>
+  <div class="box3">red</div>
+</body>
+</html>

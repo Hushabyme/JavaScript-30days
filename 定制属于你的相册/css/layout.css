@@ -1,0 +1,44 @@
+/*
+  自定义属性
+*/
+
+:root {
+  --base: #ffc600;
+  --spacing: 10px;
+  --blur: 0px;
+}
+
+img {
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+}
+
+header span {
+  color: var(--base);
+}
+
+/*
+  布局
+*/
+
+body {
+  text-align: center;
+  box-sizing: border-box;
+}
+
+body {
+  background: #193549;
+  color: white;
+  font-family: '微软雅黑', 'helvetica neue', sans-serif;
+  font-weight: 100;
+  font-size: 36px;
+}
+
+.controls {
+  margin-bottom: 55px;
+}
+
+input {
+  width: 120px;
+}
