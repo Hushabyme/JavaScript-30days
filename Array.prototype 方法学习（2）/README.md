@@ -13,7 +13,8 @@
 3. 熟练掌握 find() 方法的使用
 4. 熟练掌握 findIndex() 方法的使用
 5. 熟练掌握 slice()  方法的使用
-6. 掌握额外的例如 includes()、forEach() 等方法的学习
+6. 熟练掌握展开操作符（spread operator）的使用
+7. 掌握额外的例如 includes()、forEach() 等方法的学习
 
 ## 参考资料
 
