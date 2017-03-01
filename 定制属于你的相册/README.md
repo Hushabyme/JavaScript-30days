@@ -6,7 +6,7 @@
 
 任务效果图：
 
-![](https://github.com/Hushabyme/JavaScript-30days/blob/master/%E8%A1%8C%E8%B5%B0%E7%9A%84%E6%97%B6%E9%92%9F/final/final.png)
+![](https://github.com/Hushabyme/JavaScript-30days/blob/master/%E5%AE%9A%E5%88%B6%E5%B1%9E%E4%BA%8E%E4%BD%A0%E7%9A%84%E7%9B%B8%E5%86%8C/final/final.png)
 
 ## 任务目的
 

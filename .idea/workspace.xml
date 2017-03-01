@@ -2,24 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16bf21f3-ec8d-4887-9933-5abbf4085584" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/canvas 五彩缤纷的画笔/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/canvas 五彩缤纷的画笔/js/pen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/js/customize-dev.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/js/customize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/test/test1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/test/test2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/test/test3.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/test/test4.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/test/test5.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/定制属于你的相册/test/test6.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/查找地址功能/css/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/查找地址功能/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/查找地址功能/js/search.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/有趣的架子鼓小游戏/README.md" afterPath="$PROJECT_DIR$/有趣的架子鼓小游戏/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/有趣的架子鼓小游戏/js/player.js" afterPath="$PROJECT_DIR$/有趣的架子鼓小游戏/js/player.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/制作唯美交互的网页图集/README.md" afterPath="$PROJECT_DIR$/制作唯美交互的网页图集/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/定制属于你的相册/README.md" afterPath="$PROJECT_DIR$/定制属于你的相册/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -37,12 +22,24 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/canvas 五彩缤纷的画笔/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="145">
               <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/查找地址功能/js/search.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="5" />
+              <folding>
+                <marker date="1488356115633" expanded="true" signature="995:1145" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -171,7 +168,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="canvas 五彩缤纷的画笔" />
+              <option name="myItemId" value="查找地址功能" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -185,7 +182,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="canvas 五彩缤纷的画笔" />
+              <option name="myItemId" value="查找地址功能" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -294,15 +291,15 @@
       <updated>1488255866794</updated>
       <workItem from="1488255868166" duration="8359000" />
       <workItem from="1488277315864" duration="6745000" />
-      <workItem from="1488328823796" duration="27009000" />
+      <workItem from="1488328823796" duration="27977000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42113000" />
+    <option name="totallyTimeSpent" value="43081000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -624,14 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/JavaScript Challenge/JavaScript30/06 - Type Ahead/index-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-591">
@@ -646,24 +635,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/js/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-          <folding>
-            <marker date="1488356115633" expanded="true" signature="995:1145" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -716,11 +687,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/查找地址功能/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/查找地址功能/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/canvas 五彩缤纷的画笔/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/查找地址功能/js/search.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="5" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="5" />
+          <folding>
+            <marker date="1488356115633" expanded="true" signature="995:1145" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
