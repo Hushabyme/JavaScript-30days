@@ -1,4 +1,4 @@
-# JavaScript 30 天小项目
+# JavaScript 30 天挑战
 
 ## 前言
 
@@ -31,4 +31,12 @@ clone 方法：
 
 （6）2017-3-1  [Array.prototype 方法学习（2）](https://github.com/Hushabyme/JavaScript-30days/tree/master/Array.prototype%20%E6%96%B9%E6%B3%95%E5%AD%A6%E4%B9%A0%EF%BC%882%EF%BC%89)
 
-（7）2017-3-1  [canvas 五彩缤纷的画笔](https://github.com/Hushabyme/JavaScript-30days/tree/master/canvas%20%E4%BA%94%E5%BD%A9%E7%BC%A4%E7%BA%B7%E7%9A%84%E7%94%BB%E7%AC%94)
+（7）2017-3-1  [实时在线查找地址]()
+
+（8）2017-3-1  [canvas 五彩缤纷的画笔](https://github.com/Hushabyme/JavaScript-30days/tree/master/canvas%20%E4%BA%94%E5%BD%A9%E7%BC%A4%E7%BA%B7%E7%9A%84%E7%94%BB%E7%AC%94)
+
+（9）2017-3-2  [控制台操作小技巧必知必会]()
+
+（10）2017-3-2  [按住 shift 实现复选框全选]()
+
+（11）2017-3-2  [自定义本地 HTML5 播放器]()

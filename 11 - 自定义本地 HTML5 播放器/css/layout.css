@@ -1,0 +1,193 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font: bold 42px "微软雅黑";
+  color: pink;
+  letter-spacing: 3px;
+  text-shadow: 1px 1px 2px rgba(255, 105, 180, 0.6);
+  margin-bottom: 30px;
+}
+
+.player {
+  max-width: 1000px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+}
+
+.player__video {
+  width: 100%;
+}
+
+.player__title {
+  text-align: center;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  background: rgba(0,0,0,0.2);
+  font-size: 20px;
+  letter-spacing: 4px;
+  color: #fff;
+}
+
+.player__title {
+  transform: translateY(-100%);
+  transition: all .6s;
+}
+
+.player:hover .player__title {
+  transform: translateY(0);
+}
+
+
+.player__button {
+  font: bold 14px "微软雅黑", "sans-serif";
+  color: #000;
+  background: none;
+  border: 0;
+  line-height: 1;
+  text-align: center;
+  outline: 0;
+  padding: 0;
+  cursor: pointer;
+  max-width: 50px;
+}
+
+.player__button:focus {
+  border-color: #ffc600;
+}
+
+.player__slider {
+  height: 30px;
+}
+
+.player__controls {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  transform: translateY(100%) translateY(-5px);
+  transition: all .6s;
+  flex-wrap: wrap;
+  background: rgba(0, 0, 0, 0.1);
+}
+
+.player:hover .player__controls {
+  transform: translateY(0);
+}
+
+.player__button.player__button--play {
+  font-size: 26px;
+  color: rgba(0, 0, 0, 0.5);
+  transition: color 0.5s;
+}
+
+.player__button--play:hover {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.player:hover .progress {
+  height: 10px;
+}
+
+.player__controls > * {
+  flex: 1;
+}
+
+.progress {
+  flex: 10;
+  position: relative;
+  display: flex;
+  flex-basis: 100%;
+  height: 5px;
+  transition: height 0.3s;
+  background: rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.progress__filled {
+  width: 50%;
+  background: #00a1d6;
+  flex: 0;
+  flex-basis: 0.1%;
+}
+
+/* unholy css to style input type="range" */
+
+input[type=range] {
+  border-radius: 3px;
+  -webkit-appearance: none;
+  background: transparent;
+  width: 100%;
+  margin: 0 5px;
+}
+
+input[type=range]:focus {
+  outline: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+  width: 100%;
+  height: 8px;
+  cursor: pointer;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0 0 1px rgba(13, 13, 13, 0);
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 1px;
+  border: 1px solid rgba(1, 1, 1, 0);
+}
+
+input[type=range]::-webkit-slider-thumb {
+  height: 15px;
+  width: 15px;
+  border-radius: 50px;
+  background: #fff;
+  box-shadow: 0 0 3px #017cc3;
+  cursor: pointer;
+  -webkit-appearance: none;
+  margin-top: -3.5px;
+}
+
+input[type=range]:focus::-wefbkit-slider-runnable-track {
+  background: #bada55;
+}
+
+input[type=range]::-moz-range-track {
+  width: 100%;
+  height: 8px;
+  cursor: pointer;
+  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0), 0 0 1px rgba(13, 13, 13, 0);
+  background: #ffffff;
+  border-radius: 1px;
+  border: 1px solid rgba(1, 1, 1, 0);
+}
+
+input[type=range]::-moz-range-thumb {
+  height: 15px;
+  width: 15px;
+  border-radius: 50px;
+  background: #fff;
+  border: 0;
+  box-shadow: 0 0 5px 1px #017cc3;
+  cursor: pointer;
+}
+
+

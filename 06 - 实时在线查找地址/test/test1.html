@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>test1</title>
+</head>
+<body>
+  <h1></h1>
+
+  <script>
+    // 简单的原生 ajax 封装函数
+
+    function ajax(type, url, elem) {
+      const request = new XMLHttpRequest();
+
+      request.open(type, url);
+
+      request.onreadystatechange = () => {
+        if(request.readyState !== 4) return;
+
+        if(request.status === 400 || 'OK') {
+          elem = document.querySelector(elem);
+
+          elem.textContent = request.responseText;
+
+          console.log('congratulations,success!')
+        } else {
+          console.warn('sorry,this has something wrong!');
+        }
+      };
+
+      request.send();
+    }
+
+    ajax('get', 'test1.txt', 'h1');
+
+
+  </script>
+</body>
+</html>
