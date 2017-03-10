@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16bf21f3-ec8d-4887-9933-5abbf4085584" name="Default" comment="" />
+    <list default="true" id="16bf21f3-ec8d-4887-9933-5abbf4085584" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13 - 滚动加载页面图片/images/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13 - 滚动加载页面图片/images/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13 - 滚动加载页面图片/images/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13 - 滚动加载页面图片/css/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13 - 滚动加载页面图片/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13 - 滚动加载页面图片/js/scroll-dev.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/13 - 滚动加载页面图片/js/scroll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,12 +27,36 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12 - 键盘序列检测/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15 - LocalStorage 的使用/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="366">
+              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="19" />
+              <folding>
+                <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/15 - LocalStorage 的使用/css/layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-87">
+              <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="localStorage.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15 - LocalStorage 的使用/js/localStorage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <marker date="1489137384682" expanded="true" signature="577:742" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -33,9 +66,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,18 +78,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/有趣的架子鼓/player.js" />
-        <option value="$PROJECT_DIR$/有趣的架子鼓/layout.css" />
-        <option value="$PROJECT_DIR$/有趣的架子鼓/index.html" />
-        <option value="$PROJECT_DIR$/有趣的架子鼓/css/layout.css" />
-        <option value="$PROJECT_DIR$/有趣的架子鼓小游戏/css/layout.css" />
-        <option value="$PROJECT_DIR$/行走的时钟/index.html" />
-        <option value="$PROJECT_DIR$/行走的时钟/css/layout.css" />
-        <option value="$PROJECT_DIR$/行走的时钟/js/move.js" />
-        <option value="$PROJECT_DIR$/和CSS4新特性玩耍吧/index.html" />
-        <option value="$PROJECT_DIR$/有趣的架子鼓小游戏/js/player.js" />
-        <option value="$PROJECT_DIR$/来和CSS4自定义属性玩耍吧/test/test1.html" />
-        <option value="$PROJECT_DIR$/来和CSS4自定义属性玩耍吧/test/test2.html" />
         <option value="$PROJECT_DIR$/来和CSS4自定义属性玩耍吧/test/test3.html" />
         <option value="$PROJECT_DIR$/来和CSS4自定义属性玩耍吧/test/test4.html" />
         <option value="$PROJECT_DIR$/来和CSS4自定义属性玩耍吧/test/test5.html" />
@@ -96,6 +117,18 @@
         <option value="$PROJECT_DIR$/自定义本地 HTML5 播放器/index.html" />
         <option value="E:/JavaScript30/12 - Key Sequence Detection/index-FINISHED.html" />
         <option value="$PROJECT_DIR$/12 - 键盘序列检测/index.html" />
+        <option value="E:/test/13 - debounce.html" />
+        <option value="$PROJECT_DIR$/13 - 滚动加载页面图片/js/scroll.js" />
+        <option value="$PROJECT_DIR$/13 - 滚动加载页面图片/index.html" />
+        <option value="$PROJECT_DIR$/13 - 滚动加载页面图片/css/layout.css" />
+        <option value="$PROJECT_DIR$/14 - JavaScript Referance 与 Copy 的对比/compare.js" />
+        <option value="$PROJECT_DIR$/14 - JavaScript Referance 与 Copy 的对比/index.html" />
+        <option value="E:/JavaScript30/14 - JavaScript References VS Copying/index-FINISHED.html" />
+        <option value="$PROJECT_DIR$/14 - JavaScript Reference 与 Copy 的对比/js/compare.js" />
+        <option value="E:/JavaScript30/15 - LocalStorage/index-START.html" />
+        <option value="$PROJECT_DIR$/15 - LocalStorage 的使用/css/layout.css" />
+        <option value="$PROJECT_DIR$/15 - LocalStorage 的使用/index.html" />
+        <option value="$PROJECT_DIR$/15 - LocalStorage 的使用/js/localStorage.js" />
       </list>
     </option>
   </component>
@@ -167,13 +200,14 @@
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\JavaScript-30days\行走的时钟\js" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaScript-30days\14 - JavaScript Referance 与 Copy 的对比\js" />
       <recent name="E:\JavaScript-30days\自定义本地 HTML5 播放器" />
       <recent name="E:\JavaScript-30days\Array 有氧运动\js" />
       <recent name="E:\JavaScript-30days\行走的时钟" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaScript-30days\行走的时钟\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -250,21 +284,21 @@
       <workItem from="1488255868166" duration="8359000" />
       <workItem from="1488277315864" duration="6745000" />
       <workItem from="1488328823796" duration="28580000" />
-      <workItem from="1488415599241" duration="28599000" />
+      <workItem from="1488415599241" duration="29198000" />
+      <workItem from="1489127032260" duration="10045000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72283000" />
+    <option name="totallyTimeSpent" value="82927000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="7" />
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15052083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.123958334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -276,6 +310,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -308,215 +343,27 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/04 - Array Cardio Day 1/index-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="91" column="139" lean-forward="true" selection-start-line="91" selection-start-column="4" selection-end-line="91" selection-end-column="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array 有氧运动/js/array-dev.js" />
-    <entry file="file://$PROJECT_DIR$/Array 有氧运动/index.html" />
-    <entry file="file://$PROJECT_DIR$/Array.prototype 方法学习/js/array-dev.js" />
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/05 - Flex Panel Gallery/index-START.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="98" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/05 - Flex Panel Gallery/index-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2088">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/神奇的图库/images/5.jpg" />
-    <entry file="file://$PROJECT_DIR$/神奇的图库/index.html" />
-    <entry file="file://$PROJECT_DIR$/神奇的图库/css/layout.css" />
-    <entry file="file://$PROJECT_DIR$/神奇的图库/js/animation.js" />
-    <entry file="file://$PROJECT_DIR$/制作唯美的网页图集/index.html" />
-    <entry file="file://$PROJECT_DIR$/制作唯美的网页图集/js/animation.js" />
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/06 - Type Ahead/index-START.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="141" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="141" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/06 - Type Ahead/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-533">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/06 - Type Ahead/index-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-591">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="56" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/07 - Array Cardio Day 2/index-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/07 - Array Cardio Day 2/index-START.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="6" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="24" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/08 - Fun with HTML5 Canvas/index-START.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array.prototype 方法学习（2）/js/array-dev.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Array.prototype 方法学习（2）/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/08 - Fun with HTML5 Canvas/index-FINISHED.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="56" column="40" lean-forward="false" selection-start-line="56" selection-start-column="40" selection-end-line="56" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="17" column="41" lean-forward="false" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="1" column="34" lean-forward="false" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/查找地址功能/js/search.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-203">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canvas 五彩缤纷的画笔/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canvas 五彩缤纷的画笔/js/pen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/canvas 五彩缤纷的画笔/test/test1 - 矩形.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" column="116" lean-forward="false" selection-start-line="7" selection-start-column="116" selection-end-line="7" selection-end-column="116" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/必须要知道的 DevTools 小技巧/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/必须要知道的 DevTools 小技巧/js/devtools.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="54" column="20" lean-forward="false" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/JavaScript Challenge/JavaScript30/09 - Dev Tools Domination/index-START.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Array.prototype 方法学习（2）/js/array-dev.js" />
+    <entry file="file://$PROJECT_DIR$/Array.prototype 方法学习（2）/index.html" />
+    <entry file="file://E:/JavaScript Challenge/JavaScript30/08 - Fun with HTML5 Canvas/index-FINISHED.html" />
+    <entry file="file://$PROJECT_DIR$/查找地址功能/css/layout.css" />
+    <entry file="file://$PROJECT_DIR$/查找地址功能/index.html" />
+    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test1.txt" />
+    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test2.json" />
+    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test2.txt" />
+    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test2.html" />
+    <entry file="file://$PROJECT_DIR$/查找地址功能/test/test1.html" />
+    <entry file="file://$PROJECT_DIR$/查找地址功能/js/search.js" />
+    <entry file="file://$PROJECT_DIR$/canvas 五彩缤纷的画笔/index.html" />
+    <entry file="file://$PROJECT_DIR$/canvas 五彩缤纷的画笔/js/pen.js" />
+    <entry file="file://$PROJECT_DIR$/canvas 五彩缤纷的画笔/test/test1 - 矩形.html" />
+    <entry file="file://$PROJECT_DIR$/必须要知道的 DevTools 小技巧/index.html" />
+    <entry file="file://$PROJECT_DIR$/必须要知道的 DevTools 小技巧/js/devtools.js" />
+    <entry file="file://E:/JavaScript Challenge/JavaScript30/09 - Dev Tools Domination/index-START.html" />
     <entry file="file://E:/JavaScript30/10 - Hold Shift and Check Checkboxes/index-START.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="48" column="22" lean-forward="true" selection-start-line="48" selection-start-column="22" selection-end-line="48" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -524,23 +371,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="163">
           <caret line="110" column="2" lean-forward="true" selection-start-line="110" selection-start-column="2" selection-end-line="110" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自定义本地 HTML5 播放器/css/layout.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/自定义本地 HTML5 播放器/css/layout.html" />
     <entry file="file://E:/JavaScript30/11 - Custom Video Player/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="772">
           <caret line="155" column="1" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="155" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -548,7 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -556,7 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
           <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="71" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -564,65 +400,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
           <caret line="6" column="49" lean-forward="false" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/自定义本地 HTML5 播放器/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="104" column="26" lean-forward="false" selection-start-line="104" selection-start-column="26" selection-end-line="104" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/按住 shift 实现复选框全选/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="34" column="18" lean-forward="false" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/按住 shift 实现复选框全选/js/shift.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自定义本地 HTML5 播放器/js/controller.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1471">
-          <caret line="66" column="23" lean-forward="false" selection-start-line="66" selection-start-column="23" selection-end-line="66" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/自定义本地 HTML5 播放器/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="12" column="97" lean-forward="false" selection-start-line="12" selection-start-column="97" selection-end-line="12" selection-end-column="97" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/按住 shift 实现复选框全选/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/自定义本地 HTML5 播放器/css/layout.css" />
+    <entry file="file://$PROJECT_DIR$/按住 shift 实现复选框全选/css/layout.css" />
+    <entry file="file://$PROJECT_DIR$/按住 shift 实现复选框全选/js/shift.js" />
+    <entry file="file://$PROJECT_DIR$/自定义本地 HTML5 播放器/js/controller.js" />
+    <entry file="file://$PROJECT_DIR$/自定义本地 HTML5 播放器/index.html" />
+    <entry file="file://$PROJECT_DIR$/按住 shift 实现复选框全选/index.html" />
     <entry file="file://E:/JavaScript30/12 - Key Sequence Detection/index-FINISHED.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
           <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="85" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -630,7 +420,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -639,6 +428,156 @@
         <state relative-caret-position="232">
           <caret line="8" column="4" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JavaScript30/13 - Slide in on Scroll/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="81" column="14" lean-forward="false" selection-start-line="81" selection-start-column="4" selection-end-line="81" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JavaScript30/13 - Slide in on Scroll/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="66" column="29" lean-forward="false" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/test/13 - debounce.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="33" lean-forward="true" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 - 滚动加载页面图片/js/scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-356">
+          <caret line="5" column="19" lean-forward="false" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 - 滚动加载页面图片/js/scroll-dev.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 - 滚动加载页面图片/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/13 - 滚动加载页面图片/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="656">
+          <caret line="41" column="7" lean-forward="true" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 - JavaScript Referance 与 Copy 的对比/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 - JavaScript Referance 与 Copy 的对比/js/compare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JavaScript30/14 - JavaScript References VS Copying/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 - JavaScript Reference 与 Copy 的对比/js/compare.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1885">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14 - JavaScript Reference 与 Copy 的对比/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JavaScript30/15 - LocalStorage/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1218">
+          <caret line="9" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="78" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JavaScript30/15 - LocalStorage/index-START.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="25" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15 - LocalStorage 的使用/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87">
+          <caret line="54" column="10" lean-forward="true" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15 - LocalStorage 的使用/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="19" />
+          <folding>
+            <element signature="n#style#0;n#input#1;n#form#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/JavaScript30/15 - LocalStorage/index-FINISHED.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="28" column="2" lean-forward="false" selection-start-line="28" selection-start-column="2" selection-end-line="69" selection-end-column="33" />
+          <folding>
+            <marker date="1488254395196" expanded="true" signature="2942:3107" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15 - LocalStorage 的使用/js/localStorage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <marker date="1489137384682" expanded="true" signature="577:742" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

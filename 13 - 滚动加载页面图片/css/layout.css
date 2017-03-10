@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html {
+  background: #ffc600;
+  font: 200 20px 'helvetica neue', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.site-wrap {
+  max-width: 700px;
+  margin: 100px auto;
+  background: #fff;
+  padding: 40px;
+  text-align: justify;
+}
+
+.site-wrap p {
+  margin: 10px;
+  text-indent: 2em;
+}
+
+.align-left {
+  float: left;
+  margin-right: 20px;
+}
+
+.align-right {
+  float: right;
+  margin-left: 20px;
+}
+
+.slide-in {
+  opacity: 0;
+  transition: all 1s;
+}
+
+.align-left.slide-in {
+  transform: translateX(-50%) scale(0.9);
+}
+
+.align-right.slide-in {
+  transform: translateX(50%) scale(0.9);
+}
+
+.slide-in.active {
+  opacity: 1;
+  transform: translateX(0%) scale(1);
+}
